@@ -14,7 +14,7 @@
 .header_section
 {
     width: auto;
-    background-image: url('/assets/kw-background.png');
+    background-image: url('assets/kw-background.png');
     background-size: cover; 
     background-position: center;
     display: flex;
@@ -86,7 +86,7 @@
 {
     width: auto;
     height: auto;
-    background-image: url('/assets/kw-background.png');
+    background-image: url('assets/kw-background.png');
     background-size: cover; 
     background-position: right;
     display: flex;
